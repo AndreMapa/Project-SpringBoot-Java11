@@ -5,4 +5,5 @@ import com.andreMapa.SpringBootJPAHibernate.entities.User;
 
 public interface UserRepository extends JpaRepository<User, Long> {
 
+	
 }
